@@ -6,6 +6,6 @@ This project is using for blockchain learning, will upload almost the materies I
 
 
 这个项目是用来收集自己在学习区块链过程中用到的资料
-1、 report 目录用来收集行业的白皮书
-2、 tech 目录用来收集相关的书籍和使用到的技术的博客内容
-3、 princeton 目录是用来实现普林斯顿大学的公开课[比特币和区块链技术](https://www.coursera.org/learn/cryptocurrency)的课程例子
+1.report 目录用来收集行业的白皮书
+2.tech 目录用来收集相关的书籍和使用到的技术的博客内容
+3.princeton 目录是用来实现普林斯顿大学的公开课[比特币和区块链技术](https://www.coursera.org/learn/cryptocurrency)的课程例子
